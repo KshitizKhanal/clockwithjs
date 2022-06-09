@@ -1,0 +1,14 @@
+For hour hand:
+    360 degrees for 12 hours
+    so 30 defrees for 1 hour
+
+    Also due to minute hand
+    0.5 degrees for 1 minute
+
+    Final Formula:
+    30h+0.5m
+
+For minute hand:
+    6m degrees
+For second hand:
+    6s degrees
