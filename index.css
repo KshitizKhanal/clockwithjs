@@ -11,6 +11,7 @@
 #hour, #minute, #second{
     background: black;
     position: absolute;
+    transform-origin: bottom;
 }
 #hour{
     height: 21%;
